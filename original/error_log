@@ -1,0 +1,15 @@
+[21-Jun-2019 08:41:26 Etc/GMT] PHP Notice:  Undefined index: Story in /home/amolitru/public_html/storyin.php on line 3
+[21-Jun-2019 08:46:05 Etc/GMT] PHP Notice:  Undefined index: Story in /home/amolitru/public_html/storyin.php on line 3
+[21-Jun-2019 08:52:46 Etc/GMT] PHP Notice:  Undefined index: Why in /home/amolitru/public_html/joinin.php on line 4
+[04-Oct-2019 04:12:33 Etc/GMT] PHP Notice:  Undefined index: Name in /home/amolitru/public_html/joinin.php on line 1
+[04-Oct-2019 04:12:33 Etc/GMT] PHP Notice:  Undefined index: Email in /home/amolitru/public_html/joinin.php on line 2
+[04-Oct-2019 04:12:33 Etc/GMT] PHP Notice:  Undefined index: Number in /home/amolitru/public_html/joinin.php on line 3
+[04-Oct-2019 04:12:33 Etc/GMT] PHP Notice:  Undefined index: Why in /home/amolitru/public_html/joinin.php on line 4
+[22-Nov-2019 05:59:57 Etc/GMT] PHP Notice:  Undefined index: Name in /home/amolitru/public_html/joinin.php on line 1
+[22-Nov-2019 05:59:57 Etc/GMT] PHP Notice:  Undefined index: Email in /home/amolitru/public_html/joinin.php on line 2
+[22-Nov-2019 05:59:57 Etc/GMT] PHP Notice:  Undefined index: Number in /home/amolitru/public_html/joinin.php on line 3
+[22-Nov-2019 05:59:57 Etc/GMT] PHP Notice:  Undefined index: Why in /home/amolitru/public_html/joinin.php on line 4
+[18-Jan-2020 03:26:55 Etc/GMT] PHP Notice:  Undefined index: Name in /home/amolitru/public_html/joinin.php on line 1
+[18-Jan-2020 03:26:55 Etc/GMT] PHP Notice:  Undefined index: Email in /home/amolitru/public_html/joinin.php on line 2
+[18-Jan-2020 03:26:55 Etc/GMT] PHP Notice:  Undefined index: Number in /home/amolitru/public_html/joinin.php on line 3
+[18-Jan-2020 03:26:55 Etc/GMT] PHP Notice:  Undefined index: Why in /home/amolitru/public_html/joinin.php on line 4
